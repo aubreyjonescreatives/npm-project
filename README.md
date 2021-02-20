@@ -2,5 +2,7 @@
 
 # ADD LICENSE 
 
-# Add Modules to index.js
+# Add Modules to index.js  
+
+# Publish to NPM
 
