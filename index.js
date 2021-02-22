@@ -16,3 +16,13 @@ function Marvel(superheroes) {
 
 module.exports.Marvel = Marvel; 
 
+
+
+function HarryPotter(characters) {
+    characters = ["Harry", "Hermione", "Ron"]
+    return characters.shift()
+}
+
+
+module.exports.HarryPotter = HarryPotter; 
+
