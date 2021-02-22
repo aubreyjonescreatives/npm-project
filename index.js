@@ -26,3 +26,25 @@ function HarryPotter(characters) {
 
 module.exports.HarryPotter = HarryPotter; 
 
+
+
+
+function VampireDiaries(magicalCreatures) {
+    magicalCreatures = ["vampires", "witches", "werewolves"]
+    return magicalCreatures.pop()
+}
+
+
+module.exports.VampireDiaries = VampireDiaries; 
+
+
+
+
+function StarTrek(voyager) {
+    voyager = ["Live", "Long", "and", "Prosper"]
+    return voyager.join()
+}
+
+
+module.exports.StarTrek = StarTrek; 
+
