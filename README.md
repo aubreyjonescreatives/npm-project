@@ -4,5 +4,7 @@
 
 # Add Modules to index.js  
 
-# Publish to NPM
+# Publish to NPM 
+
+# Update version to NPM
 
