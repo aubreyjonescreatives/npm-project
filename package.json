@@ -1,6 +1,6 @@
 {
   "name": "@aubrey_jones07/npmmodule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "publish to NPM",
   "main": "index.js",
   "scripts": {
