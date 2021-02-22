@@ -6,3 +6,13 @@ function StarWars(str) {
 
 module.exports.StarWars = StarWars; 
 
+
+
+function Marvel(superheroes) {
+    superheroes = ["Ironman", "Spiderman", "Black Widow"]
+    return superheroes.push("Captain America")
+}
+
+
+module.exports.Marvel = Marvel; 
+
